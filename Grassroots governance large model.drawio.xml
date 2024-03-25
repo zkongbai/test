@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-03-25T03:29:06.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZN5N3p97AJxU-4GVOGLe" version="24.1.0" type="device">
+  <diagram name="第 1 页" id="E_VYT2v-Tc8iAxF60hPt">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;Legal data from government departments&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;Grassroots governance large model&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;C&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;itizens&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt; and Grass-roots Law Workers&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iokJU_C5AKqCqtGpCQ9N-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659.5" y="520" as="sourcePoint" />
+            <mxPoint x="659.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-13" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;Deep learning&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.12;exitY=0.052;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iokJU_C5AKqCqtGpCQ9N-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210.00000000000009" y="284.02000000000004" as="sourcePoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-16" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;Data Collection&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="420" as="sourcePoint" />
+            <mxPoint x="650" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-18" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;Ask questions, seeking legal support&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="388" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="480" as="sourcePoint" />
+            <mxPoint x="460" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iokJU_C5AKqCqtGpCQ9N-20" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13.3333px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;&lt;b&gt;Legal Analysis and r&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: 等线; font-weight: bold;&quot;&gt;elated Cases&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
